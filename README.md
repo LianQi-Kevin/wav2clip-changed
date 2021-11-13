@@ -1,5 +1,6 @@
 ## 在Win10上使用wav2clip
 ### 使用cuda11.1和cudnn11.2
+### 原项目为：https://github.com/descriptinc/lyrebird-wav2clip
 
 ##### 1. 首先创建conda环境
 ```

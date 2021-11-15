@@ -26,7 +26,7 @@ pip install git+https://github.com/openai/CLIP.git
 
 ##### 5. 直接clone修改好的存储库
 ```
-git clone https://github.com/Kevin201806/wav2clip-changed.git
+git clone https://github.com/LianQi-Kevin/wav2clip-changed.git
 ```
 
 ##### 6. 安装剩余库

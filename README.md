@@ -35,7 +35,7 @@ cd lyrebird-wav2clip
 pip install -r requirement.txt
 ```
 
-##### 7. 修改VQGAN-CLIP/main.py中的audio_file变量 设定为自己的wav文件
+##### 7. 修改`VQGAN-CLIP/main.py`中的`audio_file`变量 设定为自己的`wav`文件
 
 -----------------
 #### 从原始库clone并创建wav2clip 

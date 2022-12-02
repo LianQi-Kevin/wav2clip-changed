@@ -1,0 +1,3 @@
+[submodule "VQGAN-CLIP"]
+	path = VQGAN-CLIP
+	url = https://github.com/nerdyrodent/VQGAN-CLIP.git
